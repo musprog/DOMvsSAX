@@ -1,5 +1,3 @@
-#AUTHOR: MUSTAFA AL-KHAIRLLAH
--------------------------------
 DOM VS. SAX
 -------------------------------
 SAX
